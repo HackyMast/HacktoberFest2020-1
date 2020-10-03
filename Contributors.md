@@ -143,3 +143,7 @@ Name: [Harsh Vijay](https://github.com/hvijaycse)<br/>
 Place: Pink City, India<br/>
 About: ML Developer<br/>
 <br/>
+
+Name: [Hacky Masters](https://github.com/HackyMast/)<br/>
+Place: Australia<br/>
+About: Newbie in cybersecurity<br/>
